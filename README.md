@@ -40,3 +40,15 @@ This project is a simple weather temperature prediction model built using Python
   pip install -r requirements.txt
 
 - Run Notebook
+
+## 📈 Example Visuals
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+## 📄 License
+
+This project is open-source and free to use for learning and experimentation purposes.
